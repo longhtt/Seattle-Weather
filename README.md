@@ -7,7 +7,7 @@ By performing this work you will learn:
 #### more will be added over time
 
 ## Overview
-this project is to look at two data sets and determine which loctions has more rain
+this project is to look at two data sets and determine which location has more rain
 
 
 ## Data
