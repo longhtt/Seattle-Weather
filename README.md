@@ -29,7 +29,7 @@ seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.n
 
 [Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb](https://github.com/longhtt/Seattle-Weather/blob/main/Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb) a Colab Notebook that shows how [clean_seattle_stl_weather.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/clean_seattle_stl_weather.csv) was prepared.
 
-# short summery of steps taken
+### short summery of steps taken
 
 1. Import libaries
 2. Load data
