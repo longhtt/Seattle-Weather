@@ -25,3 +25,4 @@ note: seattle_rain.csv and stl_rain.csv are copied from [here](https://github.co
 
 seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
 
+## Data preparation
