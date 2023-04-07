@@ -16,10 +16,10 @@ this project is to look at two data sets and determine which location has more r
 
 ## Data
 [seattle_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/seattle_rain.csv)
-shows daily precipitation from one station in the Seattle area
+shows daily precipitation and other information from one station in the Seattle area
 
 [stl_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/stl_rain.csv)
-shows daily precipitation from multiple stations in the St. Louis area
+shows daily precipitation and other information from multiple stations in the St. Louis area
 
 note: seattle_rain.csv and stl_rain.csv are copied from [here](https://github.com/brian-fischer/DATA-3320/tree/main/weather) 
 
@@ -29,8 +29,9 @@ seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.n
 
 [Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb](https://github.com/longhtt/Seattle-Weather/blob/main/Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb) a Colab Notebook that shows how [clean_seattle_stl_weather.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/clean_seattle_stl_weather.csv) was prepared.
 
-### short summery of steps taken
+[clean_seattle_stl_weather.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/clean_seattle_stl_weather.csv) shows only the the daily precipitation from one station of both Seattle and St. Louis in a single file based off data from seattle_rain.csv and stl_rain.csv
 
+### short summery of steps taken
 1. Import libaries
 2. Load data
 3. explore contents of data sets 
