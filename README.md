@@ -7,17 +7,13 @@ By performing this work you will learn:
 
 the second purpose of this project is to produce a weather data set that is prepared for the analysis steps of the data science methodology to answer the question of whether it rains more in Seattle, WA than in St. Louis, MO. 
 <br/>By performing this work you will learn:
-
-1.How to perform data cleaning
-
-2.How to write a well-organized and well-commented Colab notebook
-
-3.How to export a data set from Python
+1. How to perform data cleaning
+2. How to write a well-organized and well-commented Colab notebook
+3. How to export a data set from Python
 
 ## Overview
 this project is to look at two data sets and determine which location has more rain
 The NOAA Climate [Data](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
-
 
 ## Data
 [seattle_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/seattle_rain.csv)
