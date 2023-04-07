@@ -25,4 +25,20 @@ note: seattle_rain.csv and stl_rain.csv are copied from [here](https://github.co
 
 seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
 
-## Data preparation
+## Data Preparation
+
+[Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb](https://github.com/longhtt/Seattle-Weather/blob/main/Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Data_Preparation.ipynb) a Colab Notebook that shows how [clean_seattle_stl_weather.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/clean_seattle_stl_weather.csv) was prepared.
+
+# short summery of steps taken
+
+1. Import libaries
+2. Load data
+3. explore contents of data sets 
+4. convert data types
+5. Selecting relecant subsets of data
+6. join data frames
+7. creating a tidy data frome
+8. create relevant derived variables 
+9. identify and dealing with missing values
+10. exporting clean_seattle_stl_weather.csv
+11. plots
