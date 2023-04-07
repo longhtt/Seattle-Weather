@@ -13,7 +13,6 @@ the second purpose of this project is to produce a weather data set that is prep
 
 ## Overview
 this project is to look at two data sets and determine which location has more rain
-The NOAA Climate [Data](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
 
 ## Data
 [seattle_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/seattle_rain.csv)
@@ -23,3 +22,6 @@ shows daily precipitation from one station in the Seattle area
 shows daily precipitation from multiple stations in the St. Louis area
 
 note: seattle_rain.csv and stl_rain.csv are copied from [here](https://github.com/brian-fischer/DATA-3320/tree/main/weather) 
+
+seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
+
