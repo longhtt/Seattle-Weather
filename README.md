@@ -31,7 +31,7 @@ seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.n
 
 [clean_seattle_stl_weather.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/clean_seattle_stl_weather.csv) shows only the the daily precipitation from one station of both Seattle and St. Louis in a single file based off data from seattle_rain.csv and stl_rain.csv
 
-### short summery of steps taken
+### short summery of steps taken to prep clean_seattle_stl_weather.csv
 1. Import libaries
 2. Load data
 3. explore contents of data sets 
