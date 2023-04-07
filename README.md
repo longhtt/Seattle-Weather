@@ -6,7 +6,7 @@ By performing this work you will learn:
 2. How to add data to a Github repository
 
 the second purpose of this project is to produce a weather data set that is prepared for the analysis steps of the data science methodology to answer the question of whether it rains more in Seattle, WA than in St. Louis, MO. 
-\nBy performing this work you will learn:
+<br/>By performing this work you will learn:
 
 1.How to perform data cleaning
 
