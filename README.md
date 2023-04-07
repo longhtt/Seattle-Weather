@@ -24,8 +24,7 @@ shows daily precipitation and other information from one station in the Seattle 
 shows daily precipitation and other information from multiple stations in the St. Louis area
 
 both seattle_rain.csv and stl_rain.csv are copied from [here](https://github.com/brian-fischer/DATA-3320/tree/main/weather) <br/>
-but orginaly sourced from  
-[NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
+but orginaly sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
 
 ## Data Preparation
 
