@@ -12,7 +12,9 @@ the second purpose of this project is to produce a weather data set that is prep
 3. How to export a data set from Python
 
 ## Overview
-this project is to look at two data sets and determine which location has more rain
+this project is to look at two data sets and determine which location has more rain, Seattle or St. Louis <br/>
+with both cities being given tables to show their daily precipitation we will answer the question: <br/>
+which city has more rain?
 
 ## Data
 [seattle_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/seattle_rain.csv)
@@ -21,9 +23,9 @@ shows daily precipitation and other information from one station in the Seattle 
 [stl_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/stl_rain.csv)
 shows daily precipitation and other information from multiple stations in the St. Louis area
 
-note: seattle_rain.csv and stl_rain.csv are copied from [here](https://github.com/brian-fischer/DATA-3320/tree/main/weather) 
-
-seattle_rain.csv and stl_rain.csv both sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
+both seattle_rain.csv and stl_rain.csv are copied from [here](https://github.com/brian-fischer/DATA-3320/tree/main/weather) <br/>
+but orginaly sourced from  
+[NOAA Climate](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND).
 
 ## Data Preparation
 
