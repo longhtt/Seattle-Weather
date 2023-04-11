@@ -11,6 +11,14 @@ the second purpose of this project is to produce a weather data set that is prep
 2. How to write a well-organized and well-commented Colab notebook
 3. How to export a data set from Python
 
+And the last purpose of this projext is to perform work using the data science methodology to answer the question of whether it rains more in Seattle, WA than in St. Louis, MO. <br/>
+By performing this work you will learn:
+
+1. How to use the data science methodology to answer a question
+2. How to write a well-organized and well-commented Colab notebook
+3. How to share your work to support reproducible research
+
+
 ## Overview
 this project is to look at two data sets and determine which location has more rain, Seattle or St. Louis <br/>
 with both cities being given tables to show their daily precipitation we will answer the question: <br/>
