@@ -54,6 +54,8 @@ but originally sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/sea
 11. plots
 
 ## Data Analysis 
+
+### short summery of steps taken to make analysis
 1. Import libraries
 2. Load clean data
 3. Stating questions
