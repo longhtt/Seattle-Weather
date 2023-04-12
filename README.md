@@ -54,3 +54,10 @@ but originally sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/sea
 11. plots
 
 ## Data Analysis 
+1. Import libraries
+2. Load clean data
+3. Stating questions
+4. Analysis
+5. Results for communication assignment
+6. Conclusion
+
