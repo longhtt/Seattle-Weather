@@ -52,3 +52,5 @@ but originally sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/sea
 9. identify and dealing with missing values
 10. exporting clean_seattle_stl_weather.csv
 11. plots
+
+## Data Analysis 
