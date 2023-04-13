@@ -54,7 +54,7 @@ but originally sourced from [NOAA Climate](https://www.ncei.noaa.gov/cdo-web/sea
 11. plots
 
 ## Data Analysis 
-Using the clean data file created from the data preperation, and create a notebook for analysis [Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Analysis.ipynb](https://github.com/longhtt/Seattle-Weather/blob/main/Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Analysis.ipynb) 
+Using the clean data file created from the data preperation, and create a notebook for analysis [Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Analysis.ipynb](https://github.com/longhtt/Seattle-Weather/blob/main/Long_Tran_Thien_DATA_3320_Seattle_St_Louis_Analysis.ipynb)
 
 ### short summery of steps taken to make analysis
 1. Import libraries
