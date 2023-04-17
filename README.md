@@ -69,7 +69,7 @@ Using the clean data file created from the data preperation, and create a notebo
 6. Conclusion
 
 ## Authors
-Long Tran-Thien
+Creator of repository: Long Tran-Thien
 
 ## License  
 Anyone may reuse material from this repository but must credit me 'Long Tran-Thien'
