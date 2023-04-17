@@ -72,5 +72,5 @@ Using the clean data file created from the data preperation, and create a notebo
 Long Tran-Thien
 
 ## License  
-Anyone may reuse material from this repository but my credit me 'Long Tran-Thien'
+Anyone may reuse material from this repository but must credit me 'Long Tran-Thien'
 
