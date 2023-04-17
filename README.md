@@ -19,10 +19,14 @@ By performing this work you will learn:
 3. How to share your work to support reproducible research
 
 
-## Overview
+## Description 
 this project is to look at two data sets and determine which location has more rain, Seattle or St. Louis <br/>
-with both cities being given tables to show their daily precipitation we will answer the question: <br/>
-which city has more rain?
+with both cities being given tables to show their daily precipitation, we will answer the question: <br/>
+which city has more rain? <br/>
+After preparing and fixing the data for analysis we are able to make a general conclusion that St. Louis rains more than Seattle
+
+## Requirements 
+must require a GitHub account and access to Colab that runs the Data Preparation and Data Analysis 
 
 ## Data
 [seattle_rain.csv](https://raw.githubusercontent.com/longhtt/Seattle-Weather/main/seattle_rain.csv)
@@ -63,4 +67,10 @@ Using the clean data file created from the data preperation, and create a notebo
 4. Analysis
 5. Results for communication assignment
 6. Conclusion
+
+## Authors
+Long Tran-Thien
+
+## License  
+Anyone may reuse material from this repository but my credit me 'Long Tran-Thien'
 
