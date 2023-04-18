@@ -22,8 +22,9 @@ By performing this work you will learn:
 ## Description 
 this project is to look at two data sets and determine which location has more rain, Seattle or St. Louis <br/>
 with both cities being given tables to show their daily precipitation, we will answer the question: <br/>
-which city has more rain? <br/>
-After preparing and fixing the data for analysis we are able to make a general conclusion that St. Louis rains more than Seattle
+which city has more rain?
+### Conclusion
+After preparing and fixing the data for analysis we are able to make a general conclusion that St. Louis rains more than Seattle during Summer while Seattle rains more then St. Louis during winter, but St. Louis rains more overall in a yaer than Seattle
 
 ## Requirements 
 must require a GitHub account and access to Colab that runs the Data Preparation and Data Analysis 
